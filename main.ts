@@ -191,6 +191,7 @@ input.onButtonPressed(Button.AB, function () {
         }
     }
 })
+// on B
 input.onButtonPressed(Button.B, function () {
     if (startcacu == true) {
         if (cacul1 == true) {
